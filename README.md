@@ -1,2 +1,2 @@
 # Trabalhos-BSI
-Trabalhos feitos durante o curso de Sistemas de Informação.
+Trabalhos feitos e materiais usados durante o curso de Sistemas de Informação.
